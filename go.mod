@@ -1,4 +1,4 @@
-module githib.com/aerostatka/banking-lib
+module github.com/aerostatka/banking-lib
 
 go 1.16
 
